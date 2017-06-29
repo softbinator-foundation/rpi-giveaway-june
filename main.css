@@ -65,6 +65,7 @@ a:hover {
 .cover-section .cover {
     max-width: 600px;
     margin: 0 auto;
+    padding: 0 10px;
 }
 
 .featured-image img {
@@ -77,6 +78,11 @@ a:hover {
     text-align: center;
     padding: 25px 0;
     font-weight: bold;
+}
+
+.main-action {
+    border-radius: 0 0 25px 25px;
+    overflow: hidden;
 }
 
 .final-content {
